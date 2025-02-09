@@ -1,6 +1,6 @@
-![MasterHead](coding.gif)
+![MasterHead](coding_.gif)
 
-<h1 align="center">Hi there, I'm Harshad Thombre! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Bharat Borhade! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <h2 align="center">Data Science | Data Analytics | Machine Learning</h2>
 
